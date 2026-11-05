@@ -1,0 +1,21 @@
+{
+  "routes": [
+    { "path": "/", "title": "Inicio" },
+    { "path": "/login", "title": "Iniciar sesión" },
+    { "path": "/register", "title": "Crear cuenta" },
+    { "path": "/forgot-password", "title": "Recuperar acceso" },
+    { "path": "/dashboard", "title": "Resumen del hogar" },
+    { "path": "/finanzas", "title": "Finanzas" },
+    { "path": "/finanzas/cuentas", "title": "Cuentas" },
+    { "path": "/finanzas/presupuestos", "title": "Presupuestos" },
+    { "path": "/finanzas/deudas", "title": "Deudas" },
+    { "path": "/finanzas/ahorros", "title": "Ahorros" },
+    { "path": "/compras", "title": "Compras" },
+    { "path": "/inventario", "title": "Inventario" },
+    { "path": "/tareas", "title": "Tareas" },
+    { "path": "/eventos", "title": "Eventos" },
+    { "path": "/alimentacion", "title": "Alimentación" },
+    { "path": "/asistente", "title": "Asistente" },
+    { "path": "/configuracion", "title": "Configuración" }
+  ]
+}

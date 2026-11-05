@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "HOMECALM — Organización del hogar",
+  "short_name": "HOMECALM",
+  "description": "Finanzas, compras y organización de la vida en casa.",
+  "start_url": "/dashboard/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F6F2",
+  "theme_color": "#176B5B",
+  "icons": [
+    { "src": "/homeflow-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/homeflow-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
